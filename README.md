@@ -6,7 +6,7 @@ Daniel Genkins
 
 02/04/2026 
 
-                                                Datset Descriptor
+Datset Descriptor
 
 This dataset, in its broadest sense, covered Indian migration to different nations from 1960 to 2000. Structurally, the dataset is organized as a table in which each row corresponds to a single aggregated migration record, defined by a destination country (or region) and a specific year or time period, with associated numerical migration measures. This structure ensures the strictly quantitative structure of the dataset and omits the stories and sentiment amongst the native inhabitants of the host countries and the immigrants themselves. The dataset is additionally visually unappealing and difficult to read, making observations, connections or interpretations about the data difficult.  
 
